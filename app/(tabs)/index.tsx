@@ -75,7 +75,7 @@ export default function HomeScreen() {
 
         <View style={styles.imageContainer}>
           <Image
-            source={{ uri: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbEb5k7WIog4zOTAWbYbCDS-Uk85C5ure_4w&s' }}
+            source={{ uri: 'https://khoinguonsangtao.vn/wp-content/uploads/2022/10/hinh-anh-meo-khoc-cute.jpg' }}
             style={styles.image}
           />
         </View>
